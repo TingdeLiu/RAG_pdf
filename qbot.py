@@ -1,4 +1,8 @@
-# qbot.py      
+# Project: RAG_pdf
+# Author: Tingde Liu
+# Date: 2025-09-17
+# Emai: tingde.liu.luh@gmail.com
+
 from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
@@ -6,9 +10,8 @@ from langchain.chains import RetrievalQA
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 import os
 import gradio as gr
-
-
 from dotenv import load_dotenv
+
 load_dotenv()
 
 ## LLM
