@@ -45,7 +45,7 @@ GOOGLE_API_KEY="your_google_api_key_here"
 ### Starting the Application
 
 ```bash
-python qbot.py
+uv run qbot.py
 ```
 
 The application will start at `http://127.0.0.1:7860`
