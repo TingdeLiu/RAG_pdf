@@ -1,4 +1,4 @@
-# RAG Pro
+# RAG PDF
 
 An intelligent question-answering system based on Retrieval-Augmented Generation (RAG) technology that allows users to upload PDF documents and ask questions about their content.
 
