@@ -1,6 +1,7 @@
 # RAG PDF
 
 An intelligent question-answering system based on Retrieval-Augmented Generation (RAG) technology that allows users to upload PDF documents and ask questions about their content.
+<img width="2291" height="831" alt="image" src="https://github.com/user-attachments/assets/15cc68d5-2216-469a-b463-18aabc131e06" />
 
 ## Features
 
